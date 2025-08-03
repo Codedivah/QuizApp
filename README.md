@@ -2,7 +2,7 @@
 
 A simple, responsive quiz application that lets users test their knowledge across various topics. Questions are fetched from the [Open Trivia Database](https://opentdb.com/) API in real-time.
 
-## 🧠 Features
+## Features
 
 - Select quiz topics and difficulty levels
 - Multiple choice questions, one at a time
@@ -11,12 +11,12 @@ A simple, responsive quiz application that lets users test their knowledge acros
 - Live data from a public quiz API
 - Deployed to Netlify or Vercel
 
-## 🚀 Live Demo
+## Live Demo
 
 [Click here to view the live app](https://your-app-url.netlify.app)  
 (*Replace this with your actual deployment link*)
 
-## 📸 Screenshots
+## Screenshots
 
 *(Add screenshots or GIFs of the app here once you have them)*
 
